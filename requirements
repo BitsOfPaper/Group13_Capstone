@@ -1,1 +1,18 @@
+Google Colab Versions:
+Python 3.6
+Tensorflow 2.4.1
+Keras 2.4.0
+Scikit-Image 0.16.2
+Scikit-Learn 0.22.2.post1
+Numpy 1.19.5
+Pandas 1.1.5
+PIL 7.1.2
 
+Local Machine using Anaconda:
+Tensorflow 2.1.0
+Keras 2.2.4-tf
+Scikit-Image 0.17.2
+Scikit-Learn 0.23.2
+Numpy 1.17.4
+Pandas 0.25.3
+PIL 7.2.0
