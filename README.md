@@ -21,5 +21,5 @@ Since Google Colab uses tensorflow 2.4.x and Anaconda only supports 2.1 for now
 
 File structure:
 Download the [img_data](https://drive.google.com/file/d/1Mdn2RZhA0CXXLU06KMlq_QCtCKf6D5Rn/view?usp=sharing)
-<br />Main direcotry 'img_data'
+<br />Main directory 'img_data'
 <br />Sub dirs: 'fimg', 'test', 'saves'
