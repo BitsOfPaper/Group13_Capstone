@@ -6,7 +6,7 @@ So Let's get started.
 <br /><br />
 This repo has two notebooks.
 <br />
-Run the gan_img_col notebook using google colab
+Run the gan_img_col notebook using google colab for better performance.
 <br />
 All versions of libraries used in colab can be found [here](https://github.com/BitsOfPaper/Group13_Capstone/blob/main/requirements)
 <br /><br />
