@@ -17,7 +17,7 @@ All versions of libraries used on local machine can be found [here](https://gith
 Since Google Colab uses tensorflow 2.4.x and Anaconda only supports 2.1 for now
 <br />saving entire model in colab and loading on local machine is not feasible.
 <br />So create the architecture of the model and load the weights to use interface.
-<br />Download weights.zip and extract weights into the saves folder.
+<br />Download weights.zip and extract weights into the 'saves' folder.
 
 
 File structure:
@@ -25,4 +25,4 @@ Download the [img_data](https://drive.google.com/file/d/1Mdn2RZhA0CXXLU06KMlq_QC
 <br />Extract
 <br />Main directory 'img_data' (Placed in Goolge Drive, use accordingly or change path)
 <br />Sub dirs: 'fimg', 'test'
-<br />Create 'saves' directory in img_data(Main Dir) and extract weights from [here]
+<br />Create 'saves' directory in img_data(Main Dir) and extract weights from [here](https://github.com/BitsOfPaper/Group13_Capstone/blob/main/weights.zip)
