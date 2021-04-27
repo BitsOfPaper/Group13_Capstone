@@ -16,3 +16,5 @@ Scikit-Learn 0.23.2
 Numpy 1.17.4
 Pandas 0.25.3
 PIL 7.2.0
+OpenCV-pyhon 4.5.1.48
+PySimpleGUI 4.38.0
